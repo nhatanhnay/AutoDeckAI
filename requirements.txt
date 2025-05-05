@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+python-docx
+python-pptx
+matplotlib
+langchain
+langgraph
+typing-extensions
+openai
+google-generativeai
+google-cloud-aiplatform
+huggingface_hub
+python-dotenv
